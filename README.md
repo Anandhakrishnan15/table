@@ -1,3 +1,6 @@
+# click on raw and copy downe everything down below:-
+
+
 \documentclass{resume} % Use the custom resume.cls style
 
 \usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
